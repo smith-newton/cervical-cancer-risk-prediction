@@ -121,18 +121,5 @@ Typical evaluation metrics used in this type of project include:
 
 ## Author
 
-**Smith Newton**
+**Smith Newton K **
 
-## License
-
-This project is open source and available under the MIT License.
-
-````
-
-Here’s a **better LinkedIn/resume-style README intro** if you want it to sound more impressive:
-
-```md
-# Cervical Cancer Risk Prediction
-
-Developed a machine learning-based cervical cancer risk prediction system using Python and data analysis libraries to identify high-risk cases from medical attributes. The project includes preprocessing, exploratory data analysis, predictive modeling, and performance evaluation for healthcare-focused risk assessment.
-````
